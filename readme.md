@@ -1,5 +1,5 @@
 <div align="center">
   <a href="https://lewisb.cloud">
-    <img src="https://raw.githubusercontent.com/lewisblackburn/lewisblackburn/rain-logo.svg?sanitize=true">
+    <img src="https://github.com/lewisblackburn/lewisblackburn/blob/main/rain-logo.svg?sanitize=true">
   </a>
 </div>
