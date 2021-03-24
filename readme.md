@@ -1,5 +1,9 @@
-<div align="center">
-  <a href="https://lewisb.cloud">
-    <img src="https://github.com/lewisblackburn/lewisblackburn/blob/main/rain-logo.svg?sanitize=true">
-  </a>
-</div>
+```ts
+const zxffo = new Person({
+  skills: ["TypeScript", "React", "NextJS", "GraphQL", "PrismaIO", "PostgreSQL"],
+  socials: {
+    twitter: "https://twitter.com/zxffo",
+    website: "https://lewisb.cloud",
+    },
+});
+```
