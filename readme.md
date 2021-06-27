@@ -5,23 +5,18 @@
 
 
 ```csharp
-                    'c.          lewisblackburn@github
-                 ,xNMM.          ------------------------------
-               .OMMMMo           OS: macOS 11.4 20F71 x86_64
-               OMMM0,            Host: MacBookPro15,4
-     .;loddo:' loolloddol;.      Kernel: 20.5.0
-   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 5 hours, 1 min
- .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Shell: fish 3.1.2
- XMMMMMMMMMMMMMMMMMMMMMMMX.      Location: Wakefield, UK
-;MMMMMMMMMMMMMMMMMMMMMMMM:       Frameworks: React
-:MMMMMMMMMMMMMMMMMMMMMMMM:       Languages: JavaScript, TypeScript
-.MMMMMMMMMMMMMMMMMMMMMMMMX.      Tools: GraphQL, Node.JS
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Databases: PostgresQL, MongoDB, Firebase
- .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Terminal: iTerm2
-  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   Learning: C#
-    kMMMMMMMMMMMMMMMMMMMMMMd     Hobbies: Programming, Skateboarding, Music, Movies, Gaming
-     ;KMMMMMMMWXXWMMMMMMMk.      Discord: zxffo#9145
-       .cooc,.    .,coo:.        Twitter: test
+lewisblackburn@github
+-------------------------
+OS: macOS Big Sur 11.4
+Shell: fish 3.1.2
+Location: Wakefield, UK
+Frameworks: React
+Languages: JavaScript, TypeScript
+Tools: GraphQL, Node.JS
+Databases: PostgresQL, MongoDB, Firebase
+Learning: C#
+Hobbies: Programming, Skateboarding, Music, Movies, Gaming
+Discord: zxffo#9145
 ```
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lewisblackburn)
