@@ -21,3 +21,4 @@ Discord: zxffo#9145
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lewisblackburn)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
