@@ -12,7 +12,7 @@ Shell: fish 3.1.2
 Location: Wakefield, UK
 Frameworks: React
 Languages: JavaScript, TypeScript
-Tools: GraphQL, Node.JS
+Tools: GraphQL, Node.JS, Prisma
 Databases: PostgresQL, MongoDB, Firebase
 Learning: C#
 Hobbies: Programming, Skateboarding, Music, Movies, Gaming
