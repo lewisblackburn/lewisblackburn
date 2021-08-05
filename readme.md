@@ -10,10 +10,10 @@ lewisblackburn@github
 OS: macOS Big Sur 11.4
 Shell: fish 3.1.2
 Location: Wakefield, UK
-Frameworks: React
+Frameworks: React, Next.js
 Languages: JavaScript, TypeScript
-Tools: GraphQL, Node.JS, Prisma
-Databases: PostgresQL, MongoDB, Firebase
+Tools: GraphQL, Node.JS, Prisma, TypeScript, Node.js, TypeGraphQL
+Databases: PostgresQL, MongoDB, Firebase, Redis
 Learning: C#
 Hobbies: Programming, Skateboarding, Music, Movies, Gaming
 Discord: zxffo#9145
