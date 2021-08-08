@@ -14,7 +14,7 @@ Frameworks: React, Next.js
 Languages: JavaScript, TypeScript
 Tools: GraphQL, Node.js, Prisma, TypeGraphQL
 Databases: PostgresQL, MongoDB, Firebase, Redis
-Learning: C#, V
+Learning: C#, GO
 Hobbies: Programming, Skateboarding, Music, Movies, Gaming
 Discord: zxffo#9145
 ```
