@@ -16,7 +16,7 @@ Tools: GraphQL, Node.js, Prisma, TypeGraphQL
 Databases: PostgresQL, MongoDB, Firebase, Redis
 Learning: C#, go
 Hobbies: Programming, Skateboarding, Music, Movies, Gaming
-Discord: zxffo#9145
+Discord: zxffo#9146
 ```
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lewisblackburn)
