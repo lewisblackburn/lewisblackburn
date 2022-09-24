@@ -9,7 +9,7 @@ lewisblackburn@github
 -------------------------
 OS: macOS Big Sur 11.4
 Shell: fish 3.1.2
-Location: Wakefield, UK
+Location: York, UK
 Frameworks: React, Next.js
 Languages: JavaScript, TypeScript
 Tools: GraphQL, Node.js, Prisma, TypeGraphQL
