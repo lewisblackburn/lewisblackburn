@@ -15,7 +15,7 @@ Languages: JavaScript, TypeScript
 Tools: GraphQL, Node.js, Prisma, TypeGraphQL
 Databases: PostgresQL, MongoDB, Firebase, Redis
 Learning: C#, go
-Hobbies: Programming, Skateboarding, Music, Movies, Gaming
+Hobbies: Rowing, Programming, Skateboarding, Music, Movies
 Discord: zxffo#9146
 ```
 
